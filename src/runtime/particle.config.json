@@ -1,0 +1,9 @@
+{
+  "particleDensity": 10000,
+  "minSize": 1,
+  "sizeVariation": 3,
+  "speedVariation": 4,
+  "particleColor": "#ffffff",
+  "lineColor": "#ffffff",
+  "connectionDistanceFactor": 16000
+}
