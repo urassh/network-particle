@@ -1,8 +1,11 @@
 {
   "name": "@urassh/network-particle",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "My new Nuxt module",
-  "repository": "urassh/network-particle",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/urassh/network-particle.git"
+  },
   "license": "MIT",
   "type": "module",
   "exports": {
