@@ -1,6 +1,6 @@
 {
   "name": "@urassh/network-particle",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "My new Nuxt module",
   "repository": {
     "type": "git",
@@ -14,6 +14,9 @@
       "import": "./dist/module.mjs",
       "require": "./dist/module.cjs"
     }
+  },
+  "publishConfig": {
+    "access": "public"
   },
   "main": "./dist/module.cjs",
   "types": "./dist/types.d.ts",
